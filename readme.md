@@ -54,7 +54,4 @@ function hasConsentForProductTracking() {
 - It checks for user consent before tracking any product views.
 
 ## License
-This plugin is licensed under the [MIT License](LICENSE).
-
-## Support
-For support, please contact: [plugins@moritzreitz.com](mailto:plugins@moritzreitz.com)
+This plugin is proprietary software. It may not be redistributed or sold without the explicit written consent of the author.
